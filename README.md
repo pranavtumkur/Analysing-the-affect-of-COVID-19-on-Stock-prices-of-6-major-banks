@@ -20,6 +20,8 @@ We will analyse 2.5 years' data, i.e from 01<sup>st</sup> Jan 2018 to date (12<s
 3. Use the DataReader method from pandas_datareader library to grab data from the API
 4. Store the info in separate Dataframes and concatenate all the info into a useable format
 
+**Since this data is live, simply downloading my project and rerunning it will update all graphs to the present time!**
+
 ## EDA
 
 We transform the data to explore various aspects and to gain useful insights from it. We also create a new empty DataFrame using a UDF which contains the returns for each bank's stock. Today's Returns are typically defined as the percent change in Closing stock price today compared to the Closing stock price yesterday.
