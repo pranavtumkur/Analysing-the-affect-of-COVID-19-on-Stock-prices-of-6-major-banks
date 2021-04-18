@@ -1,6 +1,6 @@
 # Analysing-the-affect-of-COVID-19-on-Stock-prices-of-6-major-banks
 
-This is an analysis of the LIVE stock prices (as on 12/06/2020) of how COVID-19 impacted the stock prices. We try to find out the banks with biggest losses and analyse which banks would the riskiest to invest in. We will also do a corelation analysis to see which banks have been performing exceptionally well or exceptionally bad compared to the performance of other banks, to determine if there has been any other factor apart from the economy for the dip/rise.
+This is an analysis of the LIVE stock prices (as on 12/06/2020) of how COVID-19 impacted the stock prices. We try to find out the banks with biggest losses and analyse which banks would be the riskiest to invest in. We will also do a corelation analysis to see which banks have been performing exceptionally well or exceptionally bad compared to the performance of other banks, to determine if there has been any other factor apart from the economy for the dip/rise.
 
 ![rsz_960x0](https://user-images.githubusercontent.com/65482013/85416360-fd1f7400-b58b-11ea-8b24-5868ea676e46.jpg)
 
